@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋, I'm Raghav Nanjappan
 
 I am an aspiring machine learning engineer with special interests in computer vision, natural language processing and data science.
 
