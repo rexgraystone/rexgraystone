@@ -2,7 +2,7 @@
 
 I am an aspiring machine learning engineer with special interests in computer vision, natural language processing and data science.
 
-![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexgraystone&show_icons=true)
+![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexgraystone&show_icons=true&theme=dark)
 
 <!--
 **rexgraystone/rexgraystone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
