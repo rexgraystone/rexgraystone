@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on large language models.
 - 🌱 I’m currently learning React.Js.
-- 👯 I’m looking to collaborate on open source projects in computer vision
+- 👯 I’m looking to collaborate on open source projects in computer vision.
