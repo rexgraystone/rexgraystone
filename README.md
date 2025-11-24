@@ -1,6 +1,6 @@
 ### Hello there 👋, I'm Raghav Nanjappan
 
-I am an aspiring machine learning engineer with special interests in computer vision, natural language processing and data science.
+I am an aspiring computer science researcher studying how people experience, adapt to, and remain comfortable in virtual environments. My work focuses on virtual reality interaction, cybersickness, multisensory perception, and human–AI interaction.
 
 ![Raghav's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rexgraystone&show_icons=true&theme=dark)
 
@@ -11,6 +11,5 @@ I am an aspiring machine learning engineer with special interests in computer vi
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on large language models.
-- 🌱 I’m currently learning React.Js.
-- 👯 I’m looking to collaborate on open source projects in computer vision.
+- 🔭 I’m currently working on virtual reality environments.
+- 🌱 I’m currently improving my skills C#.
